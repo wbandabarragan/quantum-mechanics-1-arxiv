@@ -1,1 +1,1 @@
-# quantum-mechanics-1-arxiv
+# Archived versions of my Quantum Mechanics I couse
